@@ -182,11 +182,11 @@ UCLA UX Workshop
 
 # Today
 
-1. **Lighthouse**: one page **(18 min)**
-2. **Alt text with AI**: a media library, with skills **(22 min)**
-3. **Siteimprove and Alfa**: a whole site **(17 min)**
-4. **Your workflow** is one of many options **(7 min)**
-5. **Take-home**, spring and questions **(12 min)**
+1. **Lighthouse**: one page 
+2. **Alt text with AI**: a media library, with skills
+3. **Siteimprove and Alfa**: a whole site
+4. **Your workflow** is one of many options
+5. **Take-home**, spring and questions
 
 ^ Say this early: you do not need git, a terminal, or any install today. The terminal parts are demos, and each has a browser-only equivalent. Each case starts with its takeaway, then an example, then how it works, so you can stop reading whenever you have what you need.
 
@@ -273,7 +273,7 @@ UCLA UX Workshop
 [.footer-style: #FFFFFF, Helvetica]
 [.slidenumber-style: #FFFFFF, Helvetica]
 
-# Activity: Chrome DevTools to fix list **(8 min)**
+# Activity: Chrome DevTools to fix list
 
 1. Open a page. DevTools → **Lighthouse**
 2. **Mobile**, tick **Accessibility**, then **Analyze page load**
@@ -849,7 +849,7 @@ ddev wp eval-file $S/step-4-alt-import/alt-import.php $CSV execute  # write
 [.footer-style: #FFFFFF, Helvetica]
 [.slidenumber-style: #FFFFFF, Helvetica]
 
-# Activity: sample to checklist **(10 min)**
+# Activity: sample to checklist
 
 1. Open `sample/summary-sample.md` (link on the handout)
 2. Paste it into Claude with the prompt from the README
